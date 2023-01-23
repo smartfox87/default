@@ -1,0 +1,5 @@
+/node_modules
+/local/build
+/local/package-lock.json
+/local/source/js/exclude
+*.xml
